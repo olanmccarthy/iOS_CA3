@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errors</key>
+	<dict>
+		<key>17007</key>
+		<string>Email already in use *</string>
+		<key>17010</key>
+		<string>Too many attempts</string>
+		<key>17011</key>
+		<string>Please enter a valid email</string>
+		<key>17005</key>
+		<string>User is disabled</string>
+		<key>17008</key>
+		<string>Please enter a valid email</string>
+		<key>17006</key>
+		<string>Registration with email is not allowed, please try registering  with another method*</string>
+		<key>99999</key>
+		<string>Passwords do not match!*</string>
+		<key>17009</key>
+		<string>Please enter a valid password</string>
+		<key>17026</key>
+		<string>Your password is too weak! Please try adding symbols and numbers and having a mixture of upper and lower case letters *</string>
+	</dict>
+</dict>
+</plist>
